@@ -1,0 +1,9 @@
+{
+  "id": "switch",
+  "name": "Switch",
+  "type": "sensor",
+  "description": "N/A",
+  "outputs": [
+    "switch_status"
+  ]
+}

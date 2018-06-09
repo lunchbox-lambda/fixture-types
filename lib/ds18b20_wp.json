@@ -1,0 +1,9 @@
+{
+  "id": "ds18b20_wp",
+  "name": "Thermometer",
+  "type": "sensor",
+  "description": "Waterproofed version of the DS18B20 sensor  \n[Image](https://www.makerlab-electronics.com/my_uploads/2016/08/waterproof-temperature-sensor-ds18b20-1-510x480.jpg) | [Wiring](https://www.tweaking4all.com/wp-content/uploads/2014/03/ds18b20-arduino-connected.jpg) | [Datasheet](https://datasheets.maximintegrated.com/en/ds/DS18B20.pdf)",
+  "outputs": [
+    "water_temperature"
+  ]
+}

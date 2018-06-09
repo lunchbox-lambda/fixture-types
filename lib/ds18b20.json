@@ -1,0 +1,9 @@
+{
+  "id": "ds18b20",
+  "name": "Thermometer",
+  "type": "sensor",
+  "description": "N/A",
+  "outputs": [
+    "air_temperature"
+  ]
+}

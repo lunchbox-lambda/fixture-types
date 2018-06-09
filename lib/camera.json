@@ -1,0 +1,9 @@
+{
+  "id": "camera",
+  "name": "Camera",
+  "type": "camera",
+  "description": "N/A",
+  "outputs": [
+    "camera_image"
+  ]
+}

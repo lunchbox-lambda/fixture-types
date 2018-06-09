@@ -1,0 +1,9 @@
+{
+  "id": "led",
+  "name": "Led",
+  "type": "actuator",
+  "description": "N/A",
+  "inputs": [
+    "switch_status"
+  ]
+}

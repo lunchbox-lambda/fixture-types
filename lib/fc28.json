@@ -1,0 +1,9 @@
+{
+  "id": "fc28",
+  "name": "Soil Moisture Sensor",
+  "type": "sensor",
+  "description": "N/A",
+  "outputs": [
+    "soil_moisture"
+  ]
+}
