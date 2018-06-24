@@ -1,6 +1,6 @@
 {
   "id": "led",
-  "name": "Led",
+  "name": "Led Lights",
   "type": "actuator",
   "description": "N/A",
   "inputs": [
